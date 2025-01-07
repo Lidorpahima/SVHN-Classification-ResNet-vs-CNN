@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>📊 SVHN Classification: ResNet vs Custom CNN</title>
 </head>
 <body>
     <h1>📊 SVHN Classification: ResNet50 vs Custom CNN</h1>
